@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/amankashyap004/digital-business-card.git/static/css/main.6e11f0b7.css",
+    "main.js": "/amankashyap004/digital-business-card.git/static/js/main.0fecb60c.js",
+    "index.html": "/amankashyap004/digital-business-card.git/index.html",
+    "main.6e11f0b7.css.map": "/amankashyap004/digital-business-card.git/static/css/main.6e11f0b7.css.map",
+    "main.0fecb60c.js.map": "/amankashyap004/digital-business-card.git/static/js/main.0fecb60c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e11f0b7.css",
+    "static/js/main.0fecb60c.js"
+  ]
+}
